@@ -1,0 +1,6 @@
+opencv-python>=4.9
+ultralytics>=8.3
+mediapipe>=0.10.21
+numpy>=1.26
+streamlit>=1.40
+pytest>=8.0
